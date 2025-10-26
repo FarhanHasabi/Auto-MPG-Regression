@@ -38,3 +38,18 @@ matplotlib
 seaborn
 scikit-learn
 optuna
+
+## Cara Menjalankan
+1. Clone repositori ini:
+```
+git clone https://github.com/username/auto-mpg-prediction.git
+cd auto-mpg-prediction
+```
+2. Install dependensi:
+```
+pip install -r requirements.txt
+```
+3. Jalankan notebook utama:
+```
+jupyter notebook main.ipynb
+```
