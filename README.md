@@ -38,6 +38,7 @@ matplotlib
 seaborn
 scikit-learn
 optuna
+```
 
 ## Cara Menjalankan
 1. Clone repositori ini:
